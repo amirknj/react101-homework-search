@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "email": "devpulse@gmail.com",
+    "age" :21
+}, {
+    "id": 2,
+    "email": "linklinks@gmail.com",
+    "age" :23
+}, {
+    "id": 3,
+    "email": "centizu@gmail.com",
+    "age" :25
+}, {
+    "id": 4,
+    "email": "denabox@gmail.com",
+    "age" :56
+}, {
+    "id": 5,
+    "email": "avaveo@gmail.com",
+    "age" :26
+}, {
+    "id": 6,
+    "email": "Demivee@gmail.com",
+    "age" :36
+}, {
+    "id": 7,
+    "email": "Jayo@gmail.com",
+    "age" :19
+}, {
+    "id": 8,
+    "email": "Blognation@gmail.com",
+    "age" :39
+}, {
+    "id": 9,
+    "email": "Podca@gmail.com",
+    "age" :50
+}, {
+    "id": 10,
+    "email": "layo@zz.com",
+    "age" :55
+}] 
