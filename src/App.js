@@ -46,7 +46,6 @@ function App() {
       }
 
       // setUsersList((prevList)=>([...filteredList,{email,age,id:Math.random().toString()}]))
-      // setUsersList([...data,{email,age,id:Math.random().toString()}])
       data = [...data,{email,age,id:Math.random().toString()}]
   }
 
